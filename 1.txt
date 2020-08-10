@@ -1,2 +1,16 @@
 git remote add origin https://github.com/xingfa/test111.git
-git push -u origin master
+git push -u origin master   第一次需要写这个  -u  记录提交的参数 
+
+
+git push  把本地的文件上传到 远端仓库 
+
+
+ssh -key    
+
+
+
+ssh-keygen -t rsa
+
+
+
+
